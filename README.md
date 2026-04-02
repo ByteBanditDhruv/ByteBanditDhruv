@@ -158,9 +158,17 @@ Focused on solving real-world problems through **scalable applications and secur
 ## 🔗 Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:shahdhruv095@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/dhruvshah095/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:shahdhruv095@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://shah-dhruv.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
