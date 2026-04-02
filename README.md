@@ -59,9 +59,9 @@ Focused on solving real-world problems through **scalable applications and secur
 ## 🚀 Featured Projects
 
 <table align="center">
-<tr>
 
-<td width="45%">
+<tr>
+<td width="50%">
 
 ### 📚 Learning Management System (MERN)
 
@@ -69,74 +69,65 @@ Focused on solving real-world problems through **scalable applications and secur
 * 📦 Course management + dashboards
 * 🎥 Video uploads & structured content
 * ⚡ Scalable backend with MongoDB
-* 🎯 Focus: Performance & user experience
+
+</td>
+
+<td width="50%">
+
+### 🔐 CrypTalk – Secure Communication Device
+
+* 📡 ESP32 + LoRa
+* 🔐 X25519 + ChaCha20-Poly1305
+* 📶 Offline mesh communication
+* ⚡ Infrastructure-free secure messaging
 
 </td>
 </tr>
 
 <tr>
-<td width="45%">
+<td width="50%">
 
 ### 🦷 Dental Clinic Management System
 
 * 🌐 https://dentalcareapp.vercel.app/
 * 📅 Appointment booking system
-* 👨‍⚕️ Doctor profiles & patient flow
-* ⚙️ Backend with Node.js & MongoDB
-* 🎯 Real-world client project
+* ⚙️ Node.js + MongoDB backend
 
 </td>
 
-<td width="45%">
+<td width="50%">
 
 ### ☕ Coffee Shop Website
 
 * 🌐 https://mybrewliciouscoffeeshop.netlify.app/
-* 🎨 Modern UI/UX design
-* 📱 Fully responsive frontend
-* 🖼️ Menu, gallery, testimonials
-* 🎯 Focus: User engagement
+* 🎨 Modern UI/UX
+* 📱 Fully responsive
 
 </td>
 </tr>
 
 <tr>
-<td width="45%">
+<td width="50%">
 
 ### 📖 eLearning Platform
 
 * 🌐 https://myelearningwebsite.netlify.app
-* 📚 Interactive learning interface
-* 📱 Responsive design
-* 🎯 Structured content delivery
-* ⚡ Improved usability
+* 📚 Interactive UI
+* ⚡ Optimized usability
 
 </td>
 
-<td width="45%">
-
-### 🔐 CrypTalk – Secure Communication Device
-
-* 📡 **Hardware:** ESP32 + LoRa
-* 🔐 **Encryption:** X25519 + ChaCha20-Poly1305
-* 📶 **Type:** Offline mesh communication
-* ⚡ **Feature:** Infrastructure-free secure messaging
-* 🎯 **Goal:** Privacy-focused communication system
-
-</td>
-
-<td width="45%">
+<td width="50%">
 
 ### 🚗 Vehicle Theft Detection System
 
-* 📡 GPS + GSM based system
-* 🚨 Detects unauthorized ignition
-* 📲 Sends real-time SMS alerts
+* 📡 GPS + GSM tracking
+* 🚨 Theft detection alerts
 * ⚙️ Hardware + software integration
-* 🎯 Security-focused system
 
 </td>
 </tr>
+
 </table>
 
 
