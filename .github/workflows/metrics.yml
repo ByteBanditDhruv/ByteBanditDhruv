@@ -1,14 +1,17 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           user: ByteBanditDhruv
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -22,7 +25,3 @@ jobs:
           plugin_isocalendar_duration: full-year
 
           plugin_stars: yes
-
-          plugin_followup: yes
-
-          plugin_traffic: yes
