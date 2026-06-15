@@ -1,158 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=dhruv_shah&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=full-stack%20dev%20%E2%80%A2%20hardware%20tinkerer%20%E2%80%A2%20MERN%20%26%20embedded%20systems&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Dhruv%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&color=gradient&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Embedded%20Systems&descAlignY=65&descSize=18" width="100%" />
+
+# 👋 Hello, I'm Dhruv Shah
+
+### Full Stack Developer • MERN Stack • Electronics & Computer Engineer 
+
+<img src="https://komarev.com/ghpvc/?username=ByteBanditDhruv&style=for-the-badge" />
 
 </div>
 
-<br/>
+---
 
-```bash
-dhruv@sakec:~$ cat profile.json
-```
+## 💻 About Me
 
 ```json
 {
   "name": "Dhruv Shah",
-  "role": ["Software Developer", "Frontend Engineer", "MERN Stack Dev"],
-  "location": "Andheri, Mumbai, IN",
-  "education": "B.Tech ECS @ SAKEC '26",
-  "latest_build": "Learning Management System (MERN)",
-  "interests": ["hardware-software integration", "LoRa/GSM/GPS systems", "3D design"],
-  "status": "open_to_collab"
+  "education": "B.Tech Electronics & Computer Engineering @ SAKEC",
+  "location": "Mumbai, India",
+  "role": "Full Stack Developer",
+  "specialization": [
+    "MERN Stack",
+    "Web Applications",
+    "Embedded Systems",
+    "IoT Solutions"
+  ],
+  "currently_building": "Learning Management System (MERN)",
+  "open_to": [
+    "Internships",
+    "Open Source",
+    "Collaborations"
+  ]
 }
 ```
 
-<br/>
+---
 
-```bash
-dhruv@sakec:~$ ls ./skills --tree
-```
+## 🛠 Tech Stack
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="33%">
+### Languages
 
-**🖥️ Languages**
-```
-C
-C++
-Java
-Python
-JavaScript
-SQL
-```
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-</td>
-<td valign="top" width="33%">
+### Frontend
 
-**🎨 Frontend**
-```
-HTML5
-CSS3
-React.js
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 
-</td>
-<td valign="top" width="33%">
+### Backend & Database
 
-**⚙️ Backend / DB**
-```
-Node.js
-Express.js
-Django
-MongoDB
-SQL Server
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
-</td>
-</tr>
-</table>
+### Tools
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 
-`VS Code` `Git & GitHub` `Linux` `Figma` `Blender 3D` `MATLAB`
+---
 
-</div>
+## 🚀 Featured Projects
 
-<br/>
+| Project                       | Description                                  | Stack                  |
+| ----------------------------- | -------------------------------------------- | ---------------------- |
+| 📡 CrypTalk                   | Infra-free encrypted communication over LoRa | LoRa, X25519, ChaCha20 |
+| 🚗 Vehicle Theft Detection    | GSM/GPS-based theft alert system             | Embedded C, GSM, GPS   |
+| 📚 Learning Management System | Full-stack LMS platform                      | MERN                   |
+| 🦷 Dental Clinic Platform     | Appointment booking system                   | MERN                   |
+| 🎓 eLearning Website          | Interactive learning platform                | React                  |
+| ☕ Coffee Shop Website         | Business showcase website                    | HTML, CSS, JS          |
 
-```bash
-dhruv@sakec:~$ ./run --projects
-```
+---
 
-<table align="center" width="100%">
-<tr><th align="left">project</th><th align="left">stack</th><th align="left">status</th></tr>
-<tr>
-  <td>📡 <b>CrypTalk</b><br/><sub>Infra-free encrypted comms over LoRa</sub></td>
-  <td><code>LoRa · X25519 · ChaCha20-Poly1305</code></td>
-  <td>🟢 built</td>
-</tr>
-<tr>
-  <td>🚗 <b>Vehicle Theft Detection</b><br/><sub>Ignition sensing + GSM/GPS SMS alerts</sub></td>
-  <td><code>GSM · GPS · Embedded C</code></td>
-  <td>🟢 built</td>
-</tr>
-<tr>
-  <td>📚 <b>Learning Management System</b><br/><sub>End-to-end LMS — frontend, backend & DB</sub></td>
-  <td><code>MERN</code></td>
-  <td>🟢 built</td>
-</tr>
-<tr>
-  <td>🦷 <b>Dental Clinic Platform</b><br/><sub>Booking, profiles, testimonials</sub></td>
-  <td><code>MERN / Full Stack</code></td>
-  <td><a href="https://dentalcareapp.vercel.app/">🔗 live</a></td>
-</tr>
-<tr>
-  <td>🎓 <b>eLearning Site</b><br/><sub>Responsive interactive platform</sub></td>
-  <td><code>React</code></td>
-  <td><a href="https://myelearningwebsite.netlify.app">🔗 live</a></td>
-</tr>
-<tr>
-  <td>☕ <b>Coffee Shop Site</b><br/><sub>Menu, gallery, testimonials</sub></td>
-  <td><code>HTML/CSS/JS</code></td>
-  <td><a href="https://mybrewliciouscoffeeshop.netlify.app/">🔗 live</a></td>
-</tr>
-</table>
+## 📜 Certifications
 
-<br/>
+✅ IBM Full Stack Development
 
-```bash
-dhruv@sakec:~$ cat certifications.log
-```
+---
 
-> `[IBM]` Full Stack Development — ✅ verified
-
-<br/>
-
-```bash
-dhruv@sakec:~$ ./fetch --stats --user ByteBanditDhruv
-```
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ByteBanditDhruv&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=8be9fd&text_color=e2e8f0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBanditDhruv&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=e2e8f0" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=ByteBanditDhruv&theme=synthwave&hide_border=true&background=0D1117&stroke=8be9fd&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" height="165"/>
-</div>
-
-<br/>
-
-```bash
-dhruv@sakec:~$ ./connect --all
-```
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvshah095)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=vercel&logoColor=black)](https://shah-dhruv.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdhruv095@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ByteBanditDhruv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBanditDhruv&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-<sub>compiling dreams into deployable code, one commit at a time.</sub>
+
+<img src="https://streak-stats.demolab.com?user=ByteBanditDhruv&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer" width="100%"/>
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dhruvshah095">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://shah-dhruv.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:shahdhruv095@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building solutions where software meets hardware
+
+*"Turning ideas into scalable products, one commit at a time."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
