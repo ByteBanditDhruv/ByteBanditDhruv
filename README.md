@@ -1,158 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7C9DBF&height=120&section=header&text=DHRUV%20SHAH&fontSize=46&fontColor=e2e8f0&fontAlignY=55&desc=Building%20things%20at%20the%20edge%20of%20software%20%26%20hardware&descSize=14&descAlignY=80&descColor=7C9DBF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=180&section=header&text=dhruv_shah&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=full-stack%20dev%20%7C%20hardware%20tinkerer%20%7C%20MERN%20%26%20embedded%20systems&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 </div>
 
-<table align="center">
-<tr>
-<td>
-
-```yaml
-whoami:
-  name: Dhruv Shah
-  role: Full-Stack Developer & Hardware Hacker
-  base: Andheri, Mumbai, IN
-  education: B.Tech ECS @ SAKEC (2026)
-  status: "open to freelance + collabs"
-```
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-## what i'm doing
-
+```bash
+dhruv@sakec:~$ cat profile.json
 ```
-┌────────────────────────────────────────────────────────────┐
-│  ⚙  Building a full MERN Learning Management System          │
-│  💬 Building CrypTalk — LoRa-based encrypted comm device      │
-│  🎨 Designing in Figma, Photoshop, Blender 3D                 │
-│  🛰  Exploring LoRa / GSM / GPS for embedded systems           │
-└────────────────────────────────────────────────────────────┘
+
+```json
+{
+  "name": "Dhruv Shah",
+  "role": ["Software Developer", "Frontend Engineer", "MERN Stack Dev"],
+  "location": "Andheri, Mumbai, IN",
+  "education": "B.Tech ECS @ SAKEC '26",
+  "latest_build": "Learning Management System (MERN)",
+  "interests": ["hardware-software integration", "LoRa/GSM/GPS systems", "3D design"],
+  "status": "open_to_collab"
+}
 ```
 
 <br/>
 
-## stack
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Core**
+```bash
+dhruv@sakec:~$ ls ./skills --tree
 ```
-C • C++ • Java • Python • JavaScript • SQL
-```
-
-**Frontend**
-```
-HTML5 • CSS3 • React.js
-```
-
-</td>
-<td valign="top" width="50%">
-
-**Backend / DB**
-```
-Node.js • Express.js • Django
-MongoDB • SQL Server
-```
-
-**Tooling**
-```
-VS Code • Git/GitHub • Linux
-Figma • MATLAB
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## featured builds
 
 <table align="center" width="100%">
 <tr>
-<th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">What it does</th>
-<th align="left">Link</th>
+<td valign="top" width="33%">
+
+**🖥️ Languages**
+```
+C
+C++
+Java
+Python
+JavaScript
+SQL
+```
+
+</td>
+<td valign="top" width="33%">
+
+**🎨 Frontend**
+```
+HTML5
+CSS3
+React.js
+```
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Backend / DB**
+```
+Node.js
+Express.js
+Django
+MongoDB
+SQL Server
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`VS Code` `Git & GitHub` `Linux` `Figma` `Blender 3D` `MATLAB`
+
+</div>
+
+<br/>
+
+```bash
+dhruv@sakec:~$ ./run --projects
+```
+
+<table align="center" width="100%">
+<tr><th align="left">project</th><th align="left">stack</th><th align="left">status</th></tr>
+<tr>
+  <td>📡 <b>CrypTalk</b><br/><sub>Infra-free encrypted comms over LoRa</sub></td>
+  <td><code>LoRa · X25519 · ChaCha20-Poly1305</code></td>
+  <td>🟢 built</td>
 </tr>
 <tr>
-<td><b>CrypTalk</b></td>
-<td><code>LoRa · X25519 · ChaCha20-Poly1305</code></td>
-<td>Infrastructure-free, end-to-end encrypted comm device</td>
-<td>—</td>
+  <td>🚗 <b>Vehicle Theft Detection</b><br/><sub>Ignition sensing + GSM/GPS SMS alerts</sub></td>
+  <td><code>GSM · GPS · Embedded C</code></td>
+  <td>🟢 built</td>
 </tr>
 <tr>
-<td><b>Vehicle Theft Detection</b></td>
-<td><code>GSM · GPS · Embedded</code></td>
-<td>Flags unauthorized ignition, SMS-broadcasts live GPS location</td>
-<td>—</td>
+  <td>📚 <b>Learning Management System</b><br/><sub>End-to-end LMS — frontend, backend & DB</sub></td>
+  <td><code>MERN</code></td>
+  <td>🟢 built</td>
 </tr>
 <tr>
-<td><b>Learning Management System</b></td>
-<td><code>MERN</code></td>
-<td>Full LMS — auth, courses, dashboards (in progress)</td>
-<td><i>WIP</i></td>
+  <td>🦷 <b>Dental Clinic Platform</b><br/><sub>Booking, profiles, testimonials</sub></td>
+  <td><code>MERN / Full Stack</code></td>
+  <td><a href="https://dentalcareapp.vercel.app/">🔗 live</a></td>
 </tr>
 <tr>
-<td><b>Dental Clinic Platform</b></td>
-<td><code>Full Stack</code></td>
-<td>Appointment booking, doctor profiles, testimonials</td>
-<td><a href="https://dentalcareapp.vercel.app/">live →</a></td>
+  <td>🎓 <b>eLearning Site</b><br/><sub>Responsive interactive platform</sub></td>
+  <td><code>React</code></td>
+  <td><a href="https://myelearningwebsite.netlify.app">🔗 live</a></td>
 </tr>
 <tr>
-<td><b>eLearning Site</b></td>
-<td><code>React</code></td>
-<td>Responsive interactive learning platform</td>
-<td><a href="https://myelearningwebsite.netlify.app">live →</a></td>
-</tr>
-<tr>
-<td><b>Coffee Shop Site</b></td>
-<td><code>Frontend</code></td>
-<td>Menu, gallery, and testimonials showcase</td>
-<td><a href="https://mybrewliciouscoffeeshop.netlify.app/">live →</a></td>
+  <td>☕ <b>Coffee Shop Site</b><br/><sub>Menu, gallery, testimonials</sub></td>
+  <td><code>HTML/CSS/JS</code></td>
+  <td><a href="https://mybrewliciouscoffeeshop.netlify.app/">🔗 live</a></td>
 </tr>
 </table>
 
 <br/>
 
-## the hardware side
+```bash
+dhruv@sakec:~$ cat certifications.log
+```
 
-Most profiles stop at the browser — mine doesn't. CrypTalk pairs a long-range radio link with modern cryptography so two devices can talk securely without towers, routers, or the internet. The theft-detection build does the same kind of thing for vehicles: sense, react, and report over a cellular fallback when there's no Wi-Fi to lean on. Frontend polish meets firmware-level thinking.
-
-<br/>
-
-## certifications
-
-🏅 IBM — Full Stack Development
+> `[IBM]` Full Stack Development — ✅ verified
 
 <br/>
 
-## github stats
+```bash
+dhruv@sakec:~$ ./fetch --stats --user ByteBanditDhruv
+```
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ByteBanditDhruv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C9DBF&icon_color=7C9DBF&text_color=e2e8f0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBanditDhruv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C9DBF&text_color=e2e8f0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ByteBanditDhruv&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=8be9fd&text_color=e2e8f0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBanditDhruv&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=e2e8f0" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=ByteBanditDhruv&theme=synthwave&hide_border=true&background=0D1117&stroke=8be9fd&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd" height="165"/>
 </div>
 
 <br/>
 
-## let's talk
+```bash
+dhruv@sakec:~$ ./connect --all
+```
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvshah095)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://shah-dhruv.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdhruv095@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=vercel&logoColor=black)](https://shah-dhruv.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdhruv095@gmail.com)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=7C9DBF&height=60&section=footer" width="100%"/>
+<sub>compiling dreams into deployable code, one commit at a time.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer" width="100%"/>
