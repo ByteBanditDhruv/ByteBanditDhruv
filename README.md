@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=180&section=header&text=dhruv_shah&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=full-stack%20dev%20%7C%20hardware%20tinkerer%20%7C%20MERN%20%26%20embedded%20systems&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=dhruv_shah&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=full-stack%20dev%20%E2%80%A2%20hardware%20tinkerer%20%E2%80%A2%20MERN%20%26%20embedded%20systems&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 </div>
 
